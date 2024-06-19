@@ -1,12 +1,12 @@
-<<<<<<< HEAD
-# React + Vite
+## Dukaan Dashboard
+This is a Dukaan app dashboard assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+preview 1 : 
+![image](https://github.com/uday-009/dukaan-dashboard/assets/85440832/853cb56f-e602-42f3-a323-1d088518928a)
 
-Currently, two official plugins are available:
+preview 2 : 
+![image](https://github.com/uday-009/dukaan-dashboard/assets/85440832/afdfd58a-4887-4ad8-a8e1-788a5bc6e272)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# dukaan-dashboard
->>>>>>> 1afe0015d076c5e060debdca5df9becb15d562d6
+
+
+
